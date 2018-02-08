@@ -1,6 +1,9 @@
 # Data Preprocessing Template
 
 set.seed(123)
+
+getwd()
+setwd('/Users/jasonrich/learn-machine-learning/Machine Learning A-Z Template Folder/Part 1 - Data Preprocessing/Data_Preprocessing/')
 ################################################################################
 #install packages (if missing)
 ################################################################################
@@ -17,6 +20,8 @@ library(tidyverse) # Loads tidyverse, financial pkgs, used to get data
 
 # Importing the dataset
 dataset = read.csv('Data.csv')
+#View(dataset)
+
 
 # Splitting the dataset into the Training set and Test set
 split = sample.split(dataset$DependentVariable, SplitRatio = 0.8)

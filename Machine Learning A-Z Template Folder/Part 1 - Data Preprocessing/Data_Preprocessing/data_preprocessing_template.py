@@ -1,14 +1,20 @@
+#!/usr/bin/env python3
+
 # Data Preprocessing Template
 
 # Importing the libraries
+import os
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 from sklearn.cross_validation import train_test_split
 
+# how to set a working directory in python?
+os.chdir('/Users/jasonrich/learn-machine-learning/Machine Learning A-Z Template Folder/Part 1 - Data Preprocessing/Data_Preprocessing')
+
 # Importing the dataset
 dataset = pd.read_csv('Data.csv')
-X = dataset.iloc[:, :-1].values
+X = dataset.iloc[:, :-1].values # take all lines and except the last one
 y = dataset.iloc[:, 3].values
 
 # Splitting the dataset into the Training set and Test set
