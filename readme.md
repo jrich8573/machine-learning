@@ -2,10 +2,10 @@
 
 
 ## TOC
-      1. [Data Processing](#data_processing)
-      1. [Models](#models)
-      1. [Contribute](#contribute)
-      1. [Reference](#references)
+1. [Data Processing](#data-processing)
+1. [Models](#models)
+1. [Contribute](#contribute)
+1. [Reference](#reference)
 
 
 ## TLDR
@@ -26,12 +26,12 @@ The purpose of this repo is to compile (no pun intended) a knowledge base, and r
 
 ## Models
 
-      1. <sup> [1](#footnote1)</sup> Naive Bayes Classifier
+1. Naive Bayes Classifier <sup> [1](#footnote1)</sup> 
 
 
 
 
-<a name="footnote1">1</a>: ODU MISM607, Machine Learning I, Machine Learning A-Z, Hands on Python & R in Data Science (Udemy 2018)
+
 
 ## Contribute
 
@@ -50,3 +50,6 @@ The purpose of this repo is to compile (no pun intended) a knowledge base, and r
       1. R and RStudio for specific OS:
           1. [R](https://cran.cnr.berkeley.edu)
           1. [R-Studio](https://www.rstudio.com/products/rstudio/download)
+
+
+<a name="footnote1">1</a>: ODU MISM607, Machine Learning I, Machine Learning A-Z, Hands on Python & R in Data Science (Udemy 2018)
