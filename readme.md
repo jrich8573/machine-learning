@@ -2,10 +2,10 @@
 
 
 ## TOC
-    1. [Data Processing](#data_processing)
-    1. [Models](#models)
-    1. [Contribute](#contribute)
-    1. [Reference](#references)
+      1. [Data Processing](#data_processing)
+      1. [Models](#models)
+      1. [Contribute](#contribute)
+      1. [Reference](#references)
 
 
 ## TLDR
@@ -26,7 +26,7 @@ The purpose of this repo is to compile (no pun intended) a knowledge base, and r
 
 ## Models
 
-    1. <sup>[1](#footnote1)</sup>Naive Bayes Classifier
+      1. <sup> [1](#footnote1)</sup> Naive Bayes Classifier
 
 
 
@@ -37,16 +37,16 @@ The purpose of this repo is to compile (no pun intended) a knowledge base, and r
 
 ## Reference
 
-    1. Datasets
-        1. [Machine Learning A-Z](https://www.superdatascience.com/machine-learning/)
+      1. Datasets
+          1. [Machine Learning A-Z](https://www.superdatascience.com/machine-learning/)
 
-    1. Anaconda with Python3.6 for specific OS:
-        1. [Windows](https://repo.continuum.io/archive/Anaconda3-5.0.1-Windows-x86.exe)
-        1. [Windows 64 bit](https://repo.continuum.io/archive/Anaconda3-5.0.1-Windows-x86_64.exe)
-        1. [Mac](https://repo.continuum.io/archive/Anaconda3-5.0.1-MacOSX-x86_64.pkg)
-        1. [Linux](https://repo.continuum.io/archive/Anaconda2-5.0.1-Linux-x86.sh)
-        1. [Linux 64 bit](https://repo.continuum.io/archive/Anaconda3-5.0.1-Linux-x86_64.sh)
+      1. Anaconda with Python3.6 for specific OS:
+          1. [Windows](https://repo.continuum.io/archive/Anaconda3-5.0.1-Windows-x86.exe)
+          1. [Windows 64 bit](https://repo.continuum.io/archive/Anaconda3-5.0.1-Windows-x86_64.exe)
+          1. [Mac](https://repo.continuum.io/archive/Anaconda3-5.0.1-MacOSX-x86_64.pkg)
+          1. [Linux](https://repo.continuum.io/archive/Anaconda2-5.0.1-Linux-x86.sh)
+          1. [Linux 64 bit](https://repo.continuum.io/archive/Anaconda3-5.0.1-Linux-x86_64.sh)
 
-    1. R and RStudio for specific OS:
-        1. [R](https://cran.cnr.berkeley.edu)
-        1. [R-Studio](https://www.rstudio.com/products/rstudio/download)
+      1. R and RStudio for specific OS:
+          1. [R](https://cran.cnr.berkeley.edu)
+          1. [R-Studio](https://www.rstudio.com/products/rstudio/download)
